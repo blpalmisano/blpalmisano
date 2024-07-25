@@ -23,4 +23,4 @@ Thanks for checking out my Github!
 
 📧 Email: [b.palmisano@yahoo.com](mailto:b.palmisano@yahoo.com)  
 💼 LinkedIn: [Bri Palmisano](https://www.linkedin.com/in/blpalmisano)  
-🌐 Website: [blpalmisano.com](https://blpalmisano.com)
+🌐 Portfolio: [blpalmisano.com](https://blpalmisano.com)
