@@ -13,7 +13,6 @@ Thanks for checking out my Github!
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R Script](https://img.shields.io/badge/-R_Script-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
 ![Excel Macros & VBA](https://img.shields.io/badge/-Excel%20Macros%20&%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
