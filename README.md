@@ -5,7 +5,7 @@ Thanks for checking out my Github!
 ## About Me...
 
 🎓 Graduate student earning my Master’s of Science in Business Analytics.  
-📝 Aspiring analyst, researcher & developer.  
+📝 Aspiring analyst, researcher & data scientist.  
 📊 Passionate about economic research & data science.  
 🧠 Always eager to learn new technologies and improve my skills.
 
