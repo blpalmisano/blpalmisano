@@ -9,7 +9,7 @@ Thanks for checking out my Github!
 🚀 Always eager to learn new technologies and improve my skills  
 
 🎓 **St. Johns University** - Master’s of Science in Analytics, GPA:4.0/4.0  
-🧠 **Massachusetts Institute of Technology** - AI, Data Science & Machine Learning, Ranked #3 Cohort Leaderboard, Grade:99.33%  
+🧠 **Massachusetts Institute of Technology** - AI, Data Science & Machine Learning, Ranked #3 Cohort, Grade:99.33%  
 
 ## Languages and Tools...
 
